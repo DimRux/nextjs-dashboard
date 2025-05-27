@@ -1,5 +1,9 @@
 ## Next.js App Router Course - Starter
 
+```
+https://nextjs-dashboard-weld-pi.vercel.app
+```
+
 Курс по Next.Js.
 
 Глава 1.
